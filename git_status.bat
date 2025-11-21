@@ -1,0 +1,3 @@
+@echo off
+"D:\妙妙工具箱\Git\cmd\git.exe" status
+echo 按任意键继续...
